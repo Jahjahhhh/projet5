@@ -1,7 +1,7 @@
 # Standing desk projet
 
 ```/projet5/table-2/```: KiCAD files<br>
-```/projet/???/```: Arduino code
+```/projet/???/```: Arduino files
 
 ### Hardware
 - 2x 12VDC Linear Actuators (12")
