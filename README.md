@@ -14,3 +14,5 @@
 - 4 Debounced push buttons
 - 1 DP3T toggle switch to control linear actuators
 - 1.8" OLED SPI display
+
+![alt text](https://github.com/Jahjahhhh/projet5/blob/main/schematic.png?raw=true)
