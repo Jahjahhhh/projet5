@@ -1,6 +1,6 @@
 # Standing desk projet
 
-```/projet5/table-2/```: KiCAD files
+```/projet5/table-2/```: KiCAD files<br>
 ```/projet/???/```: Arduino code
 
 ### Hardware
