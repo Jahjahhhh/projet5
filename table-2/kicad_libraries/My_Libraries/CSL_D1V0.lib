@@ -1,0 +1,396 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ARD_C_ADCH
+#
+DEF ARD_C_ADCH J 0 40 Y Y 1 F N
+F0 "J" 0 800 50 H V C CNN
+F1 "ARD_C_ADCH" 0 800 50 H V C CNN
+F2 "CSL_D1V0:ARD_C_ADCH" 0 800 50 H I C CNN
+F3 "" 0 800 50 H I C CNN
+F4 "$2.18 voir remarques" 0 800 50 H I C CNN "Cost"
+F5 "ESQ-108-14-T-S (Samtec)" 0 800 50 H I C CNN "Manufacturer Part Number"
+F6 "par Adafruit ou Robotshop" 0 800 50 H I C CNN "Mfg #1"
+F7 "Samtec Inc" 0 800 50 H I C CNN "MFG #2"
+F8 "SAM9303-ND  voir remarques" 0 800 50 H I C CNN "No Digikey"
+F9 "PR1_2020 Andre pour Shield 2020" 0 800 50 H I C CNN "Projet"
+F10 "de PADS PR1_2018" 0 800 50 H I C CNN "Projet Prealable"
+F11 "très cher chez Digikey" 0 800 50 H I C CNN "Remarque"
+F12 "nettement moins cher chez Adafruit ou RobotShop" 0 800 50 H I C CNN "Remarque #2"
+DRAW
+S 100 600 -400 -300 0 1 0 f
+X PK0/A8 1 200 -200 100 L 50 50 1 1 P
+X PK1/A9 2 200 -100 100 L 50 50 1 1 P
+X PK2/A10 3 200 0 100 L 50 50 1 1 P
+X PK3/A11 4 200 100 100 L 50 50 1 1 P
+X PK4/A12 5 200 200 100 L 50 50 1 1 P
+X PK5/A13 6 200 300 100 L 50 50 1 1 P
+X PK6/A14 7 200 400 100 L 50 50 1 1 P
+X PK7/A15 8 200 500 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ARD_C_ADCL
+#
+DEF ARD_C_ADCL J 0 40 Y Y 1 F N
+F0 "J" 0 800 50 H V C CNN
+F1 "ARD_C_ADCL" 0 800 50 H V C CNN
+F2 "CSL_D1V0:ARD_C_ADCL" 0 800 50 H I C CNN
+F3 "" 0 800 50 H I C CNN
+F4 "$2.18 voir remarques" 0 800 50 H I C CNN "Cost"
+F5 "ESQ-108-14-T-S (Samtec)" 0 800 50 H I C CNN "Manufacturer Part Number"
+F6 "par Adafruit ou Robotshop" 0 800 50 H I C CNN "Mfg #1"
+F7 "Samtec Inc" 0 800 50 H I C CNN "MFG #2"
+F8 "SAM9303-ND  voir remarques" 0 800 50 H I C CNN "No Digikey"
+F9 "PR1_2020 Andre pour Shield 2020" 0 800 50 H I C CNN "Projet"
+F10 "de PADS PR1_2018" 0 800 50 H I C CNN "Projet Prealable"
+F11 "très cher chez Digikey" 0 800 50 H I C CNN "Remarque"
+F12 "nettement moins cher chez Adafruit ou RobotShop" 0 800 50 H I C CNN "Remarque #2"
+DRAW
+S 100 600 -400 -300 0 1 0 f
+X PF0/A0 1 200 -200 100 L 50 50 1 1 P
+X PF1/A1 2 200 -100 100 L 50 50 1 1 P
+X PF2/A2 3 200 0 100 L 50 50 1 1 P
+X PF3/A3 4 200 100 100 L 50 50 1 1 P
+X PF4/A4 5 200 200 100 L 50 50 1 1 P
+X PF5/A5 6 200 300 100 L 50 50 1 1 P
+X PF6/A6 7 200 400 100 L 50 50 1 1 P
+X PF7/A7 8 200 500 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ARD_C_COMMUNICATION
+#
+DEF ARD_C_COMMUNICATION J 0 40 Y Y 1 F N
+F0 "J" 0 800 50 H V C CNN
+F1 "ARD_C_COMMUNICATION" 0 800 50 H V C CNN
+F2 "CSL_D1V0:ARD_C_COMMUNICATION" 0 800 50 H I C CNN
+F3 "" 0 800 50 H I C CNN
+F4 "$2.18 voir remarques" 0 800 50 H I C CNN "Cost"
+F5 "ESQ-108-14-T-S (Samtec)" 0 800 50 H I C CNN "Manufacturer Part Number"
+F6 "par Adafruit ou Robotshop" 0 800 50 H I C CNN "Mfg #1"
+F7 "Samtec Inc" 0 800 50 H I C CNN "MFG #2"
+F8 "SAM9303-ND  voir remarques" 0 800 50 H I C CNN "No Digikey"
+F9 "PR1_2020 Andre pour Shield 2020" 0 800 50 H I C CNN "Projet"
+F10 "de PADS PR1_2018" 0 800 50 H I C CNN "Projet Prealable"
+F11 "très cher chez Digikey" 0 800 50 H I C CNN "Remarque"
+F12 "nettement moins cher chez Adafruit ou RobotShop" 0 800 50 H I C CNN "Remarque #2"
+DRAW
+S 100 600 -400 -300 0 1 0 f
+X SCL/21 1 200 -200 100 L 50 50 1 1 P
+X SDA/20 2 200 -100 100 L 50 50 1 1 P
+X RX1/19 3 200 0 100 L 50 50 1 1 P
+X TX1/18 4 200 100 100 L 50 50 1 1 P
+X RX2/17 5 200 200 100 L 50 50 1 1 P
+X TX2/16 6 200 300 100 L 50 50 1 1 P
+X RX3/15 7 200 400 100 L 50 50 1 1 P
+X TX3/14 8 200 500 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ARD_C_DIGITAL
+#
+DEF ARD_C_DIGITAL J 0 40 Y Y 1 F N
+F0 "J" -150 950 50 H V C CNN
+F1 "ARD_C_DIGITAL" -50 -1050 50 H V C CNN
+F2 "CSL_D1V0:ARD_C_DIGITALX_PinHeader_2x18_P2.54mm_Vertical" 0 1050 50 H I C CNN
+F3 "" 100 1000 50 H I C CNN
+DRAW
+S -500 900 400 -1000 0 1 0 f
+X +5V 1 -600 800 100 R 50 50 1 1 w
+X PA7/29 10 500 400 100 L 50 50 1 1 P
+X 30/PC7 11 -600 300 100 R 50 50 1 1 P
+X PC6/31 12 500 300 100 L 50 50 1 1 P
+X 32/PC5 13 -600 200 100 R 50 50 1 1 P
+X PC4/33 14 500 200 100 L 50 50 1 1 P
+X 34/PC3 15 -600 100 100 R 50 50 1 1 P
+X PC2/35 16 500 100 100 L 50 50 1 1 P
+X 36/PC1 17 -600 0 100 R 50 50 1 1 P
+X PC0/37 18 500 0 100 L 50 50 1 1 P
+X 38/PD7 19 -600 -100 100 R 50 50 1 1 P
+X +5V 2 500 800 100 L 50 50 1 1 w
+X PG2/39 20 500 -100 100 L 50 50 1 1 P
+X 40/PG1 21 -600 -200 100 R 50 50 1 1 P
+X PG0/41 22 500 -200 100 L 50 50 1 1 P
+X 42/PL7 23 -600 -300 100 R 50 50 1 1 P
+X PL6/43 24 500 -300 100 L 50 50 1 1 P
+X 44/PL5 25 -600 -400 100 R 50 50 1 1 P
+X PL4/45 26 500 -400 100 L 50 50 1 1 P
+X 46/PL3 27 -600 -500 100 R 50 50 1 1 P
+X PL2/47 28 500 -500 100 L 50 50 1 1 P
+X 38/PL1 29 -600 -600 100 R 50 50 1 1 P
+X 22/PA0 3 -600 700 100 R 50 50 1 1 P
+X PL0/49 30 500 -600 100 L 50 50 1 1 P
+X 50/MISO 31 -600 -700 100 R 50 50 1 1 P
+X MOSI/51 32 500 -700 100 L 50 50 1 1 P
+X 52/SCK 33 -600 -800 100 R 50 50 1 1 P
+X SS/53 34 500 -800 100 L 50 50 1 1 P
+X GND 35 -600 -900 100 R 50 50 1 1 w
+X GND 36 500 -900 100 L 50 50 1 1 w
+X PA1/23 4 500 700 100 L 50 50 1 1 P
+X 24/PA2 5 -600 600 100 R 50 50 1 1 P
+X PA3/25 6 500 600 100 L 50 50 1 1 P
+X 26/PA4 7 -600 500 100 R 50 50 1 1 P
+X PA5/27 8 500 500 100 L 50 50 1 1 P
+X 28/PA6 9 -600 400 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ARD_C_POWER
+#
+DEF ARD_C_POWER J 0 40 Y Y 1 F N
+F0 "J" 0 800 50 H V C CNN
+F1 "ARD_C_POWER" -100 700 50 H V C CNN
+F2 "CSL_D1V0:ARD_C_POWER" 0 800 50 H I C CNN
+F3 "" 0 800 50 H I C CNN
+F4 "$2.18 voir remarques" 0 800 50 H I C CNN "Cost"
+F5 "ESQ-108-14-T-S (Samtec)" 0 800 50 H I C CNN "Manufacturer Part Number"
+F6 "par Adafruit ou Robotshop" 0 800 50 H I C CNN "Mfg #1"
+F7 "Samtec Inc" 0 800 50 H I C CNN "MFG #2"
+F8 "SAM9303-ND  voir remarques" 0 800 50 H I C CNN "No Digikey"
+F9 "PR1_2020 Andre pour Shield 2020" 0 800 50 H I C CNN "Projet"
+F10 "de PADS PR1_2018" 0 800 50 H I C CNN "Projet Prealable"
+F11 "très cher chez Digikey" 0 800 50 H I C CNN "Remarque"
+F12 "nettement moins cher chez Adafruit ou RobotShop" 0 800 50 H I C CNN "Remarque #2"
+DRAW
+S 100 600 -400 -300 0 1 0 f
+X NC 1 200 -200 100 L 50 50 1 1 N
+X 5V 2 200 -100 100 L 50 50 1 1 w
+X RESET 3 200 0 100 L 50 50 1 1 P
+X 3.3V 4 200 100 100 L 50 50 1 1 w
+X 5V 5 200 200 100 L 50 50 1 1 w
+X GND 6 200 300 100 L 50 50 1 1 N
+X GND 7 200 400 100 L 50 50 1 1 w
+X VIN 8 200 500 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# ARD_C_PWMH
+#
+DEF ARD_C_PWMH J 0 40 Y Y 1 F N
+F0 "J" 200 600 50 H V C CNN
+F1 "ARD_C_PWMH" -100 700 50 H V C CNN
+F2 "CSL_D1V0:ARD_C_PWMH" 200 600 50 H I C CNN
+F3 "" 200 600 50 H I C CNN
+F4 "$2.18 voir remarques" 200 600 50 H I C CNN "Cost"
+F5 "ESQ-108-14-T-S (Samtec)" 200 600 50 H I C CNN "Manufacturer Part Number"
+F6 "par Adafruit ou Robotshop" 200 600 50 H I C CNN "Mfg #1"
+F7 "Samtec Inc" 200 600 50 H I C CNN "MFG #2"
+F8 "SAM9303-ND  voir remarques" 200 600 50 H I C CNN "No Digikey"
+F9 "PR1_2020 Andre pour Shield 2020" 200 600 50 H I C CNN "Projet"
+F10 "de PADS PR1_2018" 200 600 50 H I C CNN "Projet Prealable"
+F11 "très cher chez Digikey" 200 600 50 H I C CNN "Remarque"
+F12 "nettement moins cher chez Adafruit ou RobotShop" 200 600 50 H I C CNN "Remarque #2"
+F13 "On ulise un connecteur physique 8 pins plus facile à trouver" 200 600 50 H I C CNN "Remarque #3"
+DRAW
+S 100 500 -400 -600 0 1 0 f
+X SCL 1 200 400 100 L 50 50 1 1 P
+X PH5/8 10 200 -500 100 L 50 50 1 1 P
+X SDA 2 200 300 100 L 50 50 1 1 P
+X AREF 3 200 200 100 L 50 50 1 1 P
+X GND 4 200 100 100 L 50 50 1 1 w
+X PB7/13 5 200 0 100 L 50 50 1 1 P
+X PB6/12 6 200 -100 100 L 50 50 1 1 P
+X PB5/11 7 200 -200 100 L 50 50 1 1 P
+X PB4/10 8 200 -300 100 L 50 50 1 1 P
+X PH6/9 9 200 -400 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ARD_C_PWML
+#
+DEF ARD_C_PWML J 0 40 Y Y 1 F N
+F0 "J" 0 800 50 H V C CNN
+F1 "ARD_C_PWML" -100 700 50 H V C CNN
+F2 "CSL_D1V0:ARD_C_PWM" 0 800 50 H I C CNN
+F3 "" 0 800 50 H I C CNN
+F4 "$2.18 voir remarques" 0 800 50 H I C CNN "Cost"
+F5 "ESQ-108-14-T-S (Samtec)" 0 800 50 H I C CNN "Manufacturer Part Number"
+F6 "par Adafruit ou Robotshop" 0 800 50 H I C CNN "Mfg #1"
+F7 "Samtec Inc" 0 800 50 H I C CNN "MFG #2"
+F8 "SAM9303-ND  voir remarques" 0 800 50 H I C CNN "No Digikey"
+F9 "PR1_2020 Andre pour Shield 2020" 0 800 50 H I C CNN "Projet"
+F10 "de PADS PR1_2018" 0 800 50 H I C CNN "Projet Prealable"
+F11 "très cher chez Digikey" 0 800 50 H I C CNN "Remarque"
+F12 "nettement moins cher chez Adafruit ou RobotShop" 0 800 50 H I C CNN "Remarque #2"
+DRAW
+S 100 600 -400 -300 0 1 0 f
+X RX0/0 1 200 -200 100 L 50 50 1 1 P
+X TX0/1 2 200 -100 100 L 50 50 1 1 P
+X PE4/2 3 200 0 100 L 50 50 1 1 P
+X PE5/3 4 200 100 100 L 50 50 1 1 P
+X PG5/4 5 200 200 100 L 50 50 1 1 P
+X PE3/5 6 200 300 100 L 50 50 1 1 P
+X PH3/6 7 200 400 100 L 50 50 1 1 P
+X PH4/7 8 200 500 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DPDT_JS202011
+#
+DEF DPDT_JS202011 S 0 0 Y Y 1 F N
+F0 "S" 50 425 50 H V C CNN
+F1 "DPDT_JS202011" 0 -450 50 H V C CNN
+F2 "CSL_D1V0:DPDTJS_THT" -300 800 50 H I L CNN
+F3 "" 200 300 60 H I L CNN
+F4 "Switches" 200 800 60 H I L CNN "Category"
+F5 "401-2001-ND" -300 800 60 H I L CNN "Digi-Key_PN"
+F6 "JS202011CQN" -300 900 60 H I L CNN "Manufacturer part Number"
+F7 "Slide Switches" -300 900 60 H I L CNN "Family"
+F8 "C&K" 0 900 60 H I L CNN "Mfg #1"
+F9 "PR1_2020 Andre pour Shield 2020" 100 900 50 H I C CNN "Projet"
+F10 "de PADS PR1_2018AG " 100 900 50 H I C CNN "Projet Prealable"
+DRAW
+C -100 -200 18 0 1 0 F
+C -100 200 18 0 1 0 F
+C 100 -300 18 0 1 0 F
+C 100 -100 18 0 1 0 F
+C 100 100 18 0 1 0 F
+C 100 300 18 0 1 0 F
+P 2 0 1 0 -80 -200 130 -110 N
+P 2 0 1 0 -80 200 130 290 N
+P 2 0 1 10 0 -150 0 -165 N
+P 2 0 1 10 0 -100 0 -125 N
+P 2 0 1 10 0 -50 0 -75 N
+P 2 0 1 10 0 0 0 -25 N
+P 2 0 1 10 0 50 0 25 N
+P 2 0 1 10 0 100 0 75 N
+P 2 0 1 10 0 150 0 125 N
+P 2 0 1 10 0 200 0 175 N
+P 2 0 1 10 0 235 0 225 N
+X ~ 1 200 300 100 L 50 50 1 1 P
+X ~ 2 -200 200 100 R 50 50 1 1 P
+X ~ 3 200 100 100 L 50 50 1 1 P
+X ~ 4 200 -100 100 L 50 50 1 1 P
+X ~ 5 -200 -200 100 R 50 50 1 1 P
+X ~ 6 200 -300 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# HDRF_1X4STR
+#
+DEF HDRF_1X4STR J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "HDRF_1X4STR" 0 -300 50 H V C CNN
+F2 "CSL_D1V0:HDRF_1X4STR" 0 300 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "$1.48" 0 0 50 H I C CNN "Cost"
+F5 "SSW-104-02-T-S" -100 400 50 H I C CNN "Manufacturer Part Number"
+F6 "Samtec Inc et plusieurs autres" -100 400 50 H I C CNN "Mfg #1"
+F7 "SAM1222-04-ND " -100 400 50 H I C CNN "No Digikey"
+F8 "PR1_2020 Andre pour Shield 2020" -100 400 50 H I C CNN "Projet"
+F9 "PR1_2108" 0 0 50 H I C CNN "Projet Prealable"
+F10 "Il y a plusieurs connecteurs possible" -100 400 50 H I C CNN "Remarque"
+F11 "On devrait pouvoir trouver une solution moins coûteuse" -100 400 50 H I C CNN "Remarque #2"
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 150 50 -250 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+X Pin_4 4 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LED_VERSATILE
+#
+DEF LED_VERSATILE D 0 0 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "LED_VERSATILE" 50 -150 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "André 2020" 0 -250 50 H I C CNN "Dessiné"
+$FPLIST
+ LED*
+ LED_SMD:*
+ LED_THT:*
+$ENDFPLIST
+DRAW
+P 2 0 1 8 -50 -50 -50 50 N
+P 2 0 1 0 -50 0 50 0 N
+P 4 0 1 8 50 -50 50 50 -50 0 50 -50 F
+P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
+P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TACTILE
+#
+DEF TACTILE S 0 40 Y Y 1 F N
+F0 "S" 0 160 60 H V C CNN
+F1 "TACTILE" 0 -100 60 H V C CNN
+F2 "digikey-footprints:Switch_Tactile_SMD_B3U-1000P" 200 200 60 H I L CNN
+F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" 200 300 60 H I L CNN
+F4 "SW1020CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "B3U-1000P" 200 500 60 H I L CNN "MPN"
+F6 "Switches" 200 600 60 H I L CNN "Category"
+F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
+F8 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/omron-electronics-inc-emc-div/B3U-1000P/SW1020CT-ND/1534357" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SWITCH TACTILE SPST-NO 0.05A 12V" 200 1000 60 H I L CNN "Description"
+F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C -60 0 10 0 1 0 N
+C 60 0 10 0 1 0 N
+P 2 0 1 0 -100 0 -70 0 N
+P 2 0 1 0 -70 50 70 50 N
+P 2 0 1 0 -40 110 40 110 N
+P 2 0 1 0 0 50 0 110 N
+P 2 0 1 0 100 0 70 0 N
+X ~ 1 -200 0 100 R 50 50 1 1 P
+X ~ 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TACTILE_6.3mm
+#
+DEF TACTILE_6.3mm S 0 40 Y Y 1 F N
+F0 "S" 0 160 60 H V C CNN
+F1 "TACTILE_6.3mm" 0 -100 60 H V C CNN
+F2 "CSL_D1V0:Tactile_THT_6.3x6.3mm" 200 200 60 H I L CNN
+F3 "" 200 300 60 H I L CNN
+F4 "$0.35" 0 400 50 H I C CNN "Cost"
+F5 "EVQ-21304M  " 0 400 50 H I C CNN "Manufacturer Part Number"
+F6 "Panasonic" 0 400 50 H I C CNN "Mfg #1"
+F7 "Switches" -100 500 60 H I L CNN "Category"
+F8 "Tactile Switches" -300 500 60 H I L CNN "Family"
+F9 "E-Switch" 0 400 50 H I C CNN "Mfg #2"
+F10 "P12216SCT-ND" 0 400 50 H I C CNN "No Digikey"
+F11 "PR1_2020 Andre pour Shield 2020" 100 500 50 H I C CNN "Projet"
+F12 "de PADS PR2_2010AG et PR1_2016AG" 100 500 50 H I C CNN "Projet Prealable"
+F13 "nombreux modeles à 5mm entre 2 broches" 100 500 50 H I C CNN "Remarque"
+F14 "et boîtier autour de 6.2mm au carré" 100 500 50 H I C CNN "Remarque #2"
+DRAW
+C -60 0 10 0 1 0 N
+C 60 0 10 0 1 0 N
+P 2 0 1 0 -100 0 -70 0 N
+P 2 0 1 0 -70 50 70 50 N
+P 2 0 1 0 -40 110 40 110 N
+P 2 0 1 0 0 50 0 110 N
+P 2 0 1 0 100 0 70 0 N
+X ~ 1 -200 0 100 R 50 50 1 1 P
+X ~ 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ZZ_VIDE
+#
+DEF ZZ_VIDE U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "ZZ_VIDE" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,932 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS30C
+D 8-input NAND
+K TTL Nand8
+F http://www.ti.com/lit/gpn/sn74LS30
+$ENDCMP
+#
+$CMP 74LVC125A
+D Buffer, Non-Inverting 4 Element 1 Bit per Element 3-State Output 14-TSSOP
+K TTL buffer 3State
+$ENDCMP
+#
+$CMP ALQ105_A
+D General Purpose Relay SPDT (1 Form C) 5VDC Coil Through Hole
+K Relais Relay SPDT
+$ENDCMP
+#
+$CMP ALQ305_A
+D General Purpose Relay SPST-NO (1 Form A) 5VDC Coil Through Hole
+K Relais Relay SPST
+$ENDCMP
+#
+$CMP ARD_C_ADCH
+D Connecteur surélevé (stackable) 100 mils 36 pins  pour shields Arduino Mega2560
+K Connecteur Connector stackable header socket shields Arduino Mega Mega2560 2560
+$ENDCMP
+#
+$CMP ARD_C_ADCL
+D Connecteur surélevé (stackable) 100 mils 36 pins  pour shields Arduino Mega2560
+K Connecteur Connector stackable header socket shields Arduino Mega Mega2560 2560
+$ENDCMP
+#
+$CMP ARD_C_COMMUNICATION
+D Connecteur surélevé (stackable) 100 mils 36 pins  pour shields Arduino Mega2560
+K Connecteur Connector stackable header socket shields Arduino Mega Mega2560 2560
+$ENDCMP
+#
+$CMP ARD_C_DIGITAL
+D Connecteur surélevé (stackable) 100 mils 36 pins  pour shields Arduino Mega2560
+K Connecteur Connector stackable header socket shields Arduino Mega Mega2560 2560
+$ENDCMP
+#
+$CMP ARD_C_POWER
+D Connecteur surélevé (stackable) 100 mils 36 pins  pour shields Arduino Mega2560
+K Connecteur Connector stackable header socket shields Arduino Mega Mega2560 2560
+$ENDCMP
+#
+$CMP ARD_C_PWMH
+D Connecteur surélevé (stackable) 100 mils 36 pins  pour shields Arduino Mega2560
+K Connecteur Connector stackable header socket shields Arduino Mega Mega2560 2560
+$ENDCMP
+#
+$CMP ARD_C_PWML
+D Connecteur surélevé (stackable) 100 mils 36 pins  pour shields Arduino Mega2560
+K Connecteur Connector stackable header socket shields Arduino Mega Mega2560 2560
+$ENDCMP
+#
+$CMP Arduino_Nano_v3.x
+D Arduino Nano v3.x
+K Arduino nano microcontroller module USB
+F http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+$ENDCMP
+#
+$CMP Arduino_Nano_v3_SurEmbase
+D Arduino Nano v3_SurEmbase
+K Arduino nano microcontroller module USB MONTAGE SUR EMBASE
+F https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
+$ENDCMP
+#
+$CMP AudioJack3_CUI3523
+D Audio Jack, 3 Poles (Stereo / TRS)
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+$CMP BANNIERE
+D Notre bannière en or INTERNET ET ROBOTIQUE
+$ENDCMP
+#
+$CMP BSS138C
+D MOSFET N-CH 50V 220MA SOT-23   N-Channel 50V 220mA (Ta) 360mW (Ta) Surface Mount SOT-23-3
+K BSS138CT-ND MOSFET N_CH
+F https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
+$ENDCMP
+#
+$CMP Barrel_Jack_Shielded_PJ_082
+D Power Barrel Connector Jack 2.50mm ID (0.098"), 5.50mm OD (0.217") Through Hole, Right Angle
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP Barrel_Jack_Switch_2.1X5.5mm
+D Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle
+K DC power barrel jack connector Male
+F ~
+$ENDCMP
+#
+$CMP Battery_Holder_1025
+D Battery Retainer Coin, 10.0mm 1 Cell SMD (SMT) Tab
+K battery cell Holder
+F ~
+$ENDCMP
+#
+$CMP Buzzer_TDK_PS1240
+D Buzzers Transducer, Externally Driven Piezo 3 V - 4kHz 60dB @ 3V, 10cm Through Hole PC Pins
+K Buzzer Piezoelectric Piezoelectrique
+$ENDCMP
+#
+$CMP CAP_0.47uF_50V_0603
+D Condensateur céramique non polarisé  0.1uF 50V 10% X7R 0603
+K cap capacitor ceramis céramique
+F ~
+$ENDCMP
+#
+$CMP CAP_1000uF_10V_AXIAL
+D Polarised 1000µF 10V Aluminum Electrolytic Capacitors Axial, Can 397.9mOhm @ 120Hz 2000 Hrs @ 85°C
+K cap capacitor Aluminum AXIAL
+F ~
+$ENDCMP
+#
+$CMP CAP_100nF_50V_0603
+D Condensateur céramique non polarisé  0.1uF 50V 10% X7R 0603
+K cap capacitor ceramis céramique
+F ~
+$ENDCMP
+#
+$CMP CAP_100uF_63V_RAD
+D 100µF 63V Aluminum Electrolytic Capacitors Radial, Can 1.658Ohm @ 120Hz 2000 Hrs @ 85°C
+K cap capacitor radial
+F ~
+$ENDCMP
+#
+$CMP CAP_10uF_16V_RAD
+D Polarized capacitor 10µF 16V Aluminum Electrolytic Capacitors Radial  0.6Ohms imp THT
+K cap capacitor Aluminum
+F ~
+$ENDCMP
+#
+$CMP CAP_10uF_35V_0603
+D Condensateur céramique non polarisé  0.1uF 50V 10% X7R 0805
+K cap capacitor ceramis céramique
+F ~
+$ENDCMP
+#
+$CMP CAP_10uF_35V_0805
+D Condensateur céramique non polarisé  0.1uF 50V 10% X7R 0805
+K cap capacitor ceramis céramique
+F ~
+$ENDCMP
+#
+$CMP CAP_16pF_50V_0603
+D Condensateur céramique non polarisé  0.1uF 50V 10% X7R 0805
+K cap capacitor ceramis céramique
+F ~
+$ENDCMP
+#
+$CMP CAP_2.2uF_50V_0603
+D Condensateur céramique non polarisé  0.1uF 50V 10% X7R 0603
+K cap capacitor ceramis céramique
+F ~
+$ENDCMP
+#
+$CMP CAP_220uF_50V_3640
+D Condensateur céramique non polarisé  0.1uF 50V 10% X7R 0805
+K cap capacitor ceramis céramique
+F ~
+$ENDCMP
+#
+$CMP CAP_7mm_X_2mm
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CD4071C
+D Quad Or 2 inputs
+K CMOS OR2
+F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf
+$ENDCMP
+#
+$CMP CHARGEUR_MCP73832
+D Charger IC Lithium Ion/Polymer SOT-23-5 1CEL
+K CHARGEUR CHARGER LITHIUM BATTERY
+$ENDCMP
+#
+$CMP CON-SIP-2P
+D CON MÂLE DROIT  .100 2 POSITIONS pour recevoir un cavalier
+K connector header male mâle
+F ~
+$ENDCMP
+#
+$CMP CON-SIP-3P
+D CON MÂLE DROIT  .100 3 POSITIONS pour recevoir un cavalier ou un connecteur femelle
+K connector header male mâle
+F ~
+$ENDCMP
+#
+$CMP CONSTRUCTEUR_CONDO_POLARISE
+D Polarized capacitor 10µF 16V Aluminum Electrolytic Capacitors Radial  0.6Ohms imp
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CON_FASTON
+D 0.250" (6.35mm) Quick Connect Male - Solder Connector Non-Insulated
+K FASTON CONNECTEUR Connector
+F ~
+$ENDCMP
+#
+$CMP CON_FFC_FH34SRJ_24S
+D 24 Position FFC, FPC Connector Contacts, Top and Bottom 0.020" (0.50mm) Surface Mount, Right Angle
+K CONNECTEUR CONNECTOR  FLAT FLEXIBLE FFC FCP
+$ENDCMP
+#
+$CMP CPC1998J_
+D SSR RELAY SPST-NO 5A 20-240V  Zero crossing switching
+K Photo-Triac Opto Triac
+$ENDCMP
+#
+$CMP Conn_01x08C
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x09_Molex_Pico_1.25mm
+D Connector Header Through Hole, Right Angle 9 position 0.049" (1.25mm) PicoBlade 53048
+K connector Molex
+F ~
+$ENDCMP
+#
+$CMP Conn_JST_02_H
+D Connector Header Surface Mount,JST série PH  Right Angle 4 position 0.039" (1.00mm)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_JST_SH_04_H
+D Connector Header Surface JST série SH Mount, Right Angle 4 position 0.039" (1.00mm)
+K connector JST
+F ~
+$ENDCMP
+#
+$CMP Conn_JST_ZR_B2B1.5mmV
+D Connector Header Through Hole 2 position 0.059" (1.50mm) VERTICAL
+K connector JST
+F ~
+$ENDCMP
+#
+$CMP Crystal_12MHz_GND24
+D 12 MHz ±25ppm Crystal 20pF 80 Ohms 4-SMD, No Lead
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_32,768kHz
+D 32.768 kHz ±20ppm Crystal 7pF 65 kOhms 4-SMD, Flat Lead, 3 Leads
+K quartz crystal xtal oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_32,768kHz_ECX306
+D 32.768 kHz ±10ppm Crystal 6pF 50 kOhms 4-SOJ, 5.50mm pitch
+K quartz crystal xtal oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_8.192MHz
+D Two pin crystal,  Boîtier métallique 8.192 MHz
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP DCDC_TMR_1_0512
+D 80mA Regulated 1W DC/DC converter with 1.5kV isolation, 4.5V-9V input, 12V fixed Output Voltage, SIP-6
+K Murata isolated isolation dc-dc converter transformer
+F http://assets.tracopower.com/TMR1/documents/tmr1-datasheet.pdf
+$ENDCMP
+#
+$CMP DIN5_SDS50J
+D 5 Position Circular DIN 5POS 180 degres Connector Receptacle, Female Sockets Solder
+K circular DIN connector stereo audio
+$ENDCMP
+#
+$CMP DIODE_SCHOTTKY_30V_200mA
+D Diode Schottky 30V 200mA (DC) Surface Mount SOD-123
+K diode Schottky
+$ENDCMP
+#
+$CMP DIODE_SCHOTTKY_40V_2A
+D Diode Schottky 40 V 2A Surface Mount SOD-123FL
+K diode Schottky
+$ENDCMP
+#
+$CMP DPDT_JS202011
+D SWITCH SLIDE DPDT 300MA 6V
+K 401-2002-1-ND JS DPDT SWITCH
+$ENDCMP
+#
+$CMP DRV8833C
+D IC MOTOR DRIVER DUAL PAR 16HTSSOP 1.5A 10V
+K DRIVER
+$ENDCMP
+#
+$CMP DUAL_PNP_PNP_DMMT5401
+D Bipolar (BJT) Transistor Array 2 PNP (Dual) Matched Pair 150V 200mA 300MHz 300mW Surface Mount SOT-23-6
+K transistor PNP
+$ENDCMP
+#
+$CMP D_Bridge_DIP
+D Diode Bridge Rectifier Single Phase Standard 600 V Through Hole 4-DF
+K rectifier ACDC BRIDGE RECTIFIER
+F ~
+$ENDCMP
+#
+$CMP D_Bridge_DIP4
+D Diode bridge, +ve/-ve/AC/AC
+K rectifier ACDC
+F ~
+$ENDCMP
+#
+$CMP ESP32_DEVKITC_32D
+D ESP-WROOM-32 series Transceiver; 802.11 b/g/n (Wi-Fi, WiFi, WLAN), Bluetooth® Smart Ready 4.x Dual Mode Evaluation Board
+K ESP-32 WIFI  Espressif WROOM-32
+$ENDCMP
+#
+$CMP ESP32_S2A
+D ESP32-S2-WROVER DEV 4MB FLASH
+K ESP-32 WIFI  Espressif SAOLA
+$ENDCMP
+#
+$CMP ESP8266_MOD_01S
+D TXRX ESP8266 MOD WIFI TRACE ANT
+K 1568-1235-ND
+$ENDCMP
+#
+$CMP Ferrite_0603_470_200m
+D 470 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 1A 200mOhm
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP GY521
+D GYROSCOPE 521 sur CONNECTEUR FEMELLE DROIT  .100 4 POSITIONS
+K connector header FEMELLE FEMALE GYROSCOPE GY521
+F ~
+$ENDCMP
+#
+$CMP HC_05_BLUETOOTH_M
+D MODULE BLUETOOTH HC-05 sy=ur header 6 pin femelle
+K MODULE BLUETOOTH HC-05  SERIAL
+$ENDCMP
+#
+$CMP HC_SR04
+D senseur de distance à ultrasons comme dans les kits Arduino, Elegoo
+K senseur ultrasons Elegoo
+$ENDCMP
+#
+$CMP HDRF_1X21STR
+D 21 Position Receptacle Connector 0.100" (2.54mm) Through Hole Gold
+K connector header female
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X3RA
+D CON FEMELLE ANGLE DROIT  .100 3 POSITIONS  90 DEGRÉS
+K connector header FEMELLE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X3STR
+D CON FEMELLE DROIT  .100 3 POSITIONS
+K connector header FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X4RA
+D CON FEMELLE ANGLE DROIT  .100 4 POSITIONS
+K connector header FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X4STR
+D CON FEMELLE DROIT  .100 4 POSITIONS
+K connector header FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X5RA
+D CON FEMELLE ANGLE DROIT  .100 5 POSITIONS
+K connector header FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X5RA_LNG
+D CON FEMELLE ANGLE DROIT  .100 5 POSITIONS
+K connector header FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X5RA_LNG_SD
+D CON FEMELLE ANGLE DROIT  .100 5 POSITIONS
+K connector header FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X6RA
+D CON FEMELLE ANGEL DROIT  .100 6 POSITIONS
+K connector header  FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_1X7RA
+D CON FEMELLE ANGEL DROIT  .100 6 POSITIONS
+K connector header  FEMELLE FEMALE
+F ~
+$ENDCMP
+#
+$CMP HDRF_2X20_POUR_Raspberry_Pi
+D expansion header for Raspberry Pi 2 & 3
+K raspberrypi gpio
+F https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf
+$ENDCMP
+#
+$CMP HDRF_2X5STR
+D Connecteur femelle  2.54mm 10 broches 2X5
+K connector
+F ~
+$ENDCMP
+#
+$CMP HDRM_1X3RA_I
+D CON MALE DROIT  .100 3 POSITIONS INVERSE DE LA CONVENTION NORMALE
+K connector header MALE  INVERSE
+F ~
+$ENDCMP
+#
+$CMP HDRM_1X3STR
+D Connector Header Through Hole 3 position 0.100" (2.54mm)
+K connector header MALE
+F ~
+$ENDCMP
+#
+$CMP HDRM_1X6RA
+D CON MALE DROIT  .100 3 POSITIONS INVERSE DE LA CONVENTION NORMALE
+K connector header MALE  INVERSE
+F ~
+$ENDCMP
+#
+$CMP HDRM_1X7RA
+D CON MALE DROIT  .100 3 POSITIONS INVERSE DE LA CONVENTION NORMALE
+K connector header MALE  INVERSE
+F ~
+$ENDCMP
+#
+$CMP HDRM_2X5STR_1.27mm_JTAG
+D Connector Male  Header Through Hole 10 position 0.050" (1.27mm) Shrouded Keyed
+K connector JTAG 1.27mm 50mils
+F ~
+$ENDCMP
+#
+$CMP HDRM_2X5STR_SHRD_KEY
+D Connector Male  Header Through Hole 10 position 0.100" (2.54mm) Shrouded Keyed
+K connector SHROUD
+F ~
+$ENDCMP
+#
+$CMP HORLOGE_RTC_DS1341
+D Real Time Clock (RTC) IC Clock/Calendar - I²C, 2-Wire Serial 8-TSSOP, 8-MSOP (0.118", 3.00mm Width)
+K RTC  REAL TIME CLOCK
+$ENDCMP
+#
+$CMP HORLOGE_RTC_DS3231
+D Module horloge temps réel (RTC) CLK/CALENDAR I2C
+K DS3231MZ/V ELEGOO RTC
+$ENDCMP
+#
+$CMP Header40
+D Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP I2C_MULT_9548_MODULE
+D TCA9548A I²C Switch Interface Evaluation Board
+K Low voltage 8-channel I2C switch with reset
+$ENDCMP
+#
+$CMP IND_10uH_SMD
+D 10 µH Semi-Shielded Inductor 700 mA 460mOhm Max Nonstandard Ferrite pratiquement 1008 elargi pour montage manuel
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP IND_22uH_SMD
+D 22 µH Unshielded Wirewound Inductor 420 mA 600mOhm Max 1812 (4532 Metric) ferrite core
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP Jack_Stereo_6_25mm_Switch
+D 6.35mm (0.250", 1/4") - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Press-Fit, Solder
+K audio jack receptacle stereo headphones connector
+F ~
+$ENDCMP
+#
+$CMP LED_THTC
+D Light emitting diode, filled shape
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_VERSATILE
+D LED Montage en surface pouvant recevoir LEDs de 0603 a 1210
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LM1117MPX_3_3V_LNG
+D IC REG LIN 3.3V 800MA SOT223-4
+K LM1117MPX-3.3/NOPBCT-ND LM1117-3.3
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1117
+$ENDCMP
+#
+$CMP LM13700_A
+D Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers SOIC-16
+K operational transconductance amplifier OTA
+F http://www.ti.com/lit/ds/symlink/lm13700.pdf
+$ENDCMP
+#
+$CMP LM358M_m
+D General Purpose Amplifier 2 Circuit - 8-SOIC
+K dual opamp
+$ENDCMP
+#
+$CMP LM386A
+D Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8
+K single Power opamp
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
+$CMP LOGO_IR
+D LOGO Internet et Robotique IR
+K LOGO
+$ENDCMP
+#
+$CMP MCP6L04-xST
+D Quad, 1 MHz, 85µA, Rail-to-Rail input and ouput, TSSOP-14
+K opamp vfa r2r rtr
+F http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf
+$ENDCMP
+#
+$CMP MIC5219_3.3V
+D LDO 3.3V 500mA SOT-23-5
+K REGULATOR REGULATEUR LDO
+$ENDCMP
+#
+$CMP MIC5504_3.3V
+D Linear Voltage Regulator IC Positive Fixed 1 Output 300mA SOT-23-5
+K Micrel  LDO voltage regulator Regulateur
+$ENDCMP
+#
+$CMP MMBT3904-7-F_C
+D TRANS NPN 40V 350MW 0.2A SMD SOT23-3
+K MMBT3904-FDICT-ND Automotive, AEC-Q101 Transistor BJT BEC
+F https://www.diodes.com/assets/Datasheets/ds30036.pdf
+$ENDCMP
+#
+$CMP Micro_SD_Card_GCT
+D 9 (8 + 1) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold push-in push-out avec detection
+K connector SD microsd
+$ENDCMP
+#
+$CMP NMOS_3023
+D N-Channel 30 V 6.2A (Ta) 900mW (Ta) Surface Mount SOT-23-3
+K NMOS  MOSFET N_CH
+$ENDCMP
+#
+$CMP OLED_Multi
+D OLED 4 Broches SPI convenant à plusieurs affichages de 64X128 ou de 128X128
+K OLED multi format 64X126 128X128
+$ENDCMP
+#
+$CMP OOPS3560
+D OOPS CIRCUIT PETIT TROU POUR BRANCHER UN POINT DE TEST OU UN FIL DE TEST ,035 trou  sur 60 beigne
+K CONNECTEUR VIDE OOPS DIAGNOSTIC
+$ENDCMP
+#
+$CMP OP400A
+D QUAD General Purpose Amplifier 4 Circuit 14-PDIP
+K quad opamp rtor
+F http://www.ti.com/lit/ds/symlink/opa4197.pdf
+$ENDCMP
+#
+$CMP OPA4196xPW
+D Quad, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, TSSOP-14
+K quad opamp rtor
+F http://www.ti.com/lit/ds/symlink/opa4196.pdf
+$ENDCMP
+#
+$CMP OPTO_TRIAC_VO2223A
+D Optoisolator Triac, Power Output 5300Vrms 1 Channel 8-DIP
+K OPTOTRIAC TRIAC OPTOISOLATOR ISOLATOR
+$ENDCMP
+#
+$CMP OPTO_VO617
+D Optoisolator Transistor Output 5300Vrms 1 Channel 4-DIP
+K Optpisolator
+$ENDCMP
+#
+$CMP PMOS_RQ5C035
+D P-Channel 20 V 3.5A (Ta) 1W (Tc) Surface Mount TSMT3 (SOT23_LNG OK)
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
+$CMP POT_10K_KitA
+D 10k Ohm 1 Gang Linear Through Hole, Snap In Potentiometer None 1 Kierros Carbon 0.05W, 1/20W PC Pins, Board Locks
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP POT_10K_P0915
+D 10k Ohm 1 Gang Linear Panel Mount Potentiometer None 1 Kierros Conductive Plastic 0.05W, 1/20W PC Pins, Board Locks
+K resistor variable pot
+F ~
+$ENDCMP
+#
+$CMP POT_10K_PTV09
+D 10k Ohm 1 Gang Linear Through Hole, Snap In Potentiometer None 1 Kierros Carbon 0.05W, 1/20W PC Pins, Board Locks
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP POT_SLIDE_PS30
+D 10 kOhms 0.2W, 1/5W Through Hole Slide Potentiometer Top Adjustment Type
+K resistor variable slide pot
+F ~
+$ENDCMP
+#
+$CMP PTL_60_100K
+D 100 kOhms 0.2W, 1/5W Through Hole Slide Potentiometer Top Adjustment Type 60mm de course  avec LED Orange
+K slide POT resistor variable
+F ~
+$ENDCMP
+#
+$CMP QC1602A
+D CONNECTEUR .100 16 positions pour recevoir LCD
+K LCD DISPLAY AFFICHAGE
+$ENDCMP
+#
+$CMP REG_ADJ_SMD
+D Linear Voltage Regulator IC Positive Adjustable 1 Output 500ma ou 300ma ou 300mA SOT-25
+K Micrel  LDO voltage regulator Regulateur
+$ENDCMP
+#
+$CMP RELAIS_5V_10A_KitA
+D Sanyo TE SONGLE SRD relay, Single Pole Miniature Power Relay, General Purpose Relay SPDT (1 Form C) 5VDC Coil Through Hole
+K Single Pole Relay SPDT SONGLE
+F http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+$ENDCMP
+#
+$CMP RES0603
+D Resistor, symbole Americain mise en boîte SMD 0603 pour montage manuel
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP RES_0.25W
+D Resistor, symbole Americain mise en boîte traversant 1/4W
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP RES_10W
+D Resistor, symbole Americain mise en boîte traversant 10W
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP Relais_5V_16A_SPST_TE
+D General Purpose Relay SPST-NO (1 Form A) 5VDC Coil Through Hole
+K SPST 1P1T RELAY RELAIS
+$ENDCMP
+#
+$CMP SAM4LC_100TQFP
+D ARM® Cortex®-M4 series Microcontroller IC 32-Bit 48MHz 100-TQFP (14x14)
+K ARM  SAM4L   Cortex-M4  ATMEL
+$ENDCMP
+#
+$CMP SAM4LC_48TQFP
+D ARM® Cortex®-M4 series Microcontroller IC 32-Bit 48MHz 100-TQFP (14x14)
+K ARM  SAM4L   Cortex-M4  ATMEL
+$ENDCMP
+#
+$CMP SAM4LC_64TQFP
+D ARM® Cortex®-M4 series Microcontroller IC 32-Bit 48MHz 100-TQFP (14x14)
+K ARM  SAM4L   Cortex-M4  ATMEL
+$ENDCMP
+#
+$CMP SAM4LS_100TQFP
+D ARM® Cortex®-M4 series Microcontroller IC 32-Bit 48MHz 100-TQFP (14x14)
+K ARM  SAM4L   Cortex-M4  ATMEL
+$ENDCMP
+#
+$CMP SAM4LS_48TQFP
+D ARM® Cortex®-M4 series Microcontroller IC 32-Bit 48MHz 100-TQFP (14x14)
+K ARM  SAM4L   Cortex-M4  ATMEL
+$ENDCMP
+#
+$CMP SAM4LS_64TQFP
+D ARM® Cortex®-M4 series Microcontroller IC 32-Bit 48MHz 100-TQFP (14x14)
+K ARM  SAM4L   Cortex-M4  ATMEL
+$ENDCMP
+#
+$CMP SCL3300
+D Sensor Inclinometer ±90° X, Y, Z Axis 70Hz Bandwidth 12-SMD, Flat Lead
+K Sensor  Senseur inclinometer détecteur
+$ENDCMP
+#
+$CMP SD_Card_AMP
+D SD Card Reader 12 (9 + 3) Position Card Connector Secure Digital - SD Surface Mount Gold
+K connector SD
+$ENDCMP
+#
+$CMP SECTION_MASTER
+D Controlleur de section avec réserve pour une impulsion très courte
+K PR1 EXER3
+$ENDCMP
+#
+$CMP SHIELD_Arduino_UNO_R3A
+D Arduino UNO Microcontroller Module, release 3
+K Arduino UNO R3 Microcontroller Module Atmel AVR USB
+F https://www.arduino.cc/en/Main/arduinoBoardUno
+$ENDCMP
+#
+$CMP SIP-2P_200
+D Trous permettant de braser deux fils sur la plaquette.
+K connector
+F ~
+$ENDCMP
+#
+$CMP SW_LIMIT_SPDT
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP SW_SPDT_EG1224
+D Slide Switch SPDT Through Hole, Right Angle
+K switch single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP TACTILE_6.3mm
+D Tactile Switch SPST-NO Top Actuated Through Hole
+K SW1020CT-ND B3U SWITCH TACTILE SPST-NO
+$ENDCMP
+#
+$CMP TACTILE_RA
+D Tactile Switch SPST-NO Top Actuated Through Hole
+K SW1020CT-ND B3U SWITCH TACTILE SPST-NO
+$ENDCMP
+#
+$CMP TERM_RESSORT_4X_3_5MM
+D Terminal à ressort 4POS 3.5mm 45 degrés 2A 300V 16-24AWG
+K TERMINAL RESSORT
+$ENDCMP
+#
+$CMP TEST_POINT_JUMPER
+D Point de tet: Trou permettant d'insérer un JUMPER mâle comme ceux des kits Arduino et possiblement souder un petit fil pour fins de dépannage
+K TEST POINT JUMPER DEPANNAGE DEBUGGING
+$ENDCMP
+#
+$CMP TEST_POINT_MM
+D PC Pin Terminal Connector Free Hanging (In-Line) Gold 0.030" (0.76mm) Dia POINT DE TEST POUVANT SUPPORTER CLIP ALIGATOR OU EAZY
+K TEST POINT CLIPS SONDES
+$ENDCMP
+#
+$CMP TL071A
+D J-FET Amplifier 1 Circuit  8-SOIC
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lm741.pdf
+$ENDCMP
+#
+$CMP TL074A
+D J-FET Amplifier 4 Circuit  14-SOIC /SOIC-14
+K quad opamp
+$ENDCMP
+#
+$CMP TRIAC_DPAK
+D TRIAC Logic - Sensitive Gate 600 V 8 A Surface Mount DPAK
+K TRIAC DPAK
+F ~
+$ENDCMP
+#
+$CMP TRIMMER_15TOURS_10K
+D 10 kOhms 0.75W, 3/4W PC Pins Through Hole Trimmer Potentiometer Cermet 15 Turn Side Adjustment
+K resistor variable trimpot trimmer
+F ~
+$ENDCMP
+#
+$CMP TRIMMER_5K
+D 5 kOhms 0.2W, 1/5W PC Pins Through Hole Trimmer Potentiometer Cermet 1 Turn Top Adjustment  US symbol
+K resistor variable trimpot trimmer
+F ~
+$ENDCMP
+#
+$CMP TRIMMER_5TOURS
+D 0.25W, 1/4W J Lead Surface Mount Trimmer Potentiometer Cermet 5.0 Turn Side Adjustment
+K resistor variable trimpot trimmer
+F ~
+$ENDCMP
+#
+$CMP TVS_DIODE_PRTR5V
+D - Clamp - Ipp Tvs Diode Surface Mount SOT-143B
+K ESD protection USB
+$ENDCMP
+#
+$CMP Tactile_KitA
+D SWITCH TACTILE SPST-NO provenant du Kit Arduino Mega d'Elegoo
+K SW400-ND B3F  Tactile Kit Arduino
+$ENDCMP
+#
+$CMP Tactile_NKK
+D SWITCH TACTILE SPST-NO provenant du Kit Arduino Mega d'Elegoo
+K SW400-ND B3F  Tactile Kit Arduino
+$ENDCMP
+#
+$CMP Tactile_NKK_JB
+D Tactile Switch SPST-NO Top Actuated Through Hole
+K Tactile SPST   SPST-NO
+$ENDCMP
+#
+$CMP Tactile_SMD_6mmVA
+D SWITCH TACTILE SPST-NO 0.05A 24V
+K SW400-ND B3F  Tactile
+$ENDCMP
+#
+$CMP Terminal_A_VIS_01x02
+D 2 Position Wire to Board Terminal Block 45° (135°) Angle with Board 0.197" (5.00mm) Through Hole
+K screw terminal  vis
+F ~
+$ENDCMP
+#
+$CMP Terminal_A_VIS_01x03
+D 3 Position Wire to Board Terminal Block 45° (135°) Angle with Board 0.197" (5.00mm) Through Hole
+K screw terminal Vis
+F ~
+$ENDCMP
+#
+$CMP TrouDeMontage_AWG14_Avec_Branchement
+D Trou de montage pour une vis M3 avec branchement électrique possible
+K mounting hole Trou Montage
+F ~
+$ENDCMP
+#
+$CMP TrouDeMontage_AWG18_Avec_Branchement
+D Trou de montage pour une vis M3 avec branchement électrique possible
+K mounting hole Trou Montage
+F ~
+$ENDCMP
+#
+$CMP TrouDeMontage_M3_Avec_Branchement
+D Trou de montage pour une vis M3 avec branchement électrique possible
+K mounting hole Trou Montage
+F ~
+$ENDCMP
+#
+$CMP TrouDeMontage_M3_sansBranchement
+D Trou de montage pour une vis M3 qui ne sera pas branchée au circuit
+K mounting hole trou  montage
+F ~
+$ENDCMP
+#
+$CMP TrouDePassage_de_fil_240mils_sansBranchement
+D Trou de montage pour une vis M3 qui ne sera pas branchée au circuit
+K mounting hole trou  montage
+F ~
+$ENDCMP
+#
+$CMP TrouDePassage_de_fil_AWG14_sansBranchement
+D Trou de montage pour une vis M3 qui ne sera pas branchée au circuit
+K mounting hole trou  montage
+F ~
+$ENDCMP
+#
+$CMP TrouDePassage_de_fil_AWG18_sansBranchement
+D Trou de montage pour une vis M3 qui ne sera pas branchée au circuit
+K mounting hole trou  montage
+F ~
+$ENDCMP
+#
+$CMP TrousDeMontage_Boite_Electrique
+D Trou de montage pour une vis M3 qui ne sera pas branchée au circuit
+K mounting hole trou  montage
+F ~
+$ENDCMP
+#
+$CMP USB_C_Receptacle_USB2.0_man
+D USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole
+K usb universal serial bus type-C USB2.0
+$ENDCMP
+#
+$CMP USB_MICRO_B_GCT_VERTICAL
+D USB - micro B USB 2.0 Receptacle Connector 5 Position Through Hole Vertical Flanges
+K USB MICRO Type-B
+$ENDCMP
+#
+$CMP USB_MICRO_B_KMMX
+D USB - micro B  Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole
+K USB MICRO Type-B
+$ENDCMP
+#
+$CMP V7805R_1000_2000
+D DC DC CONVERTER 5V 5W ou 10W (1A ou 2A) selon le modele
+K DC-DC CONVERTER
+F https://www.cui.com/product/resource/digikeypdf/v78xx-1000.pdf
+$ENDCMP
+#
+$CMP WS2812B_man
+D Addressable Lighting series 10 LED Discrete - Red, Green, Blue (RGB) 2.00mm L x 2.00mm W
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+$CMP XBEE_XBEEPRO
+D Emetteur-recepteur XBEE et XBEE-PRO sur embases
+K Emetteur Xbee Recepteur  emitter radio
+$ENDCMP
+#
+#End Doc Library

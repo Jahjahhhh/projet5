@@ -1,0 +1,43 @@
+Cost
+Manufacturer Part Number
+Mfg #1
+Mfg #2
+Mfg #3
+No Digikey
+No Adafruit 
+Projet      PR5_2023 Andre pour
+Projet      PR1_2023 Andre pour  
+Projet      PR5_2022 Andre pour 
+Projet      PR5_2022 Andre pour Sandrine Lacroix-Pierre et Al
+Projet      PR6_2023 Andre pour 
+Projet      PR1_2021 Andre pour Shield 2021
+Projet      PR1_2021 Andre pour Sandrine Lacroix-Pierre SD 2021
+Projet      PR1_2020 Andre pour EXER3  2020
+
+Projet		PR5_2021 Andre pour
+
+Projet      A2021 André pour cours de Pier-Marc
+Projet Prealable             
+
+Remarque #1
+Remarque #2
+Remarque #3
+Remarque #4
+Remarque #5
+
+mod de la lib KiCad pour brasure manuelle
+
+Tolerance
+Fréquence
+ValeurV
+Power Rating
+Courant Limite
+Courant Limite
+Fils Acceptés
+Force de Serrage
+DC Resistance
+Resonant Frequency
+Impedance @ Frequency
+
+{KICAD6_3DMODEL_DIR}   la bonne chose pour remplacer
+{KISYS3DMOD}

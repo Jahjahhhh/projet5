@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-19052011-103281";"";
+"REFERENCE";"B3F-6020";"";
+"TraceParts.PartTitle";"Tactile Switch (6mm x 6mm Radial Models - Taping Specifications) – B3F";"";
+"TraceParts.InstanceId";"10-19052011-1032815C0VRWOLMS427T914CX4CSH0L";"";
+"DESIGN";"Tactile Switch Without ground terminal, Height 5.0 mm, Operating Force 0.98N";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"OMRON";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"OMRON:/F_OMRON/OMRON.050/OMRON.050.060/OMRON.050.060.020/10-19052011-103281";"";

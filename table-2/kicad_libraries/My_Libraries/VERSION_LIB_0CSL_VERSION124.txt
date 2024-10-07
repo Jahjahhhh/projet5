@@ -1,0 +1,36 @@
+Ce fichier indique par son nom même dans quelle version de quelle librairie il se trouve.
+
+
+
+André Gauthier 6 octobre 2023 pour la version 124 LA DERNIERE DE A 2023!
+
+   La version 86 est le première version permettant 
+          de réaliser le SHIELD Versions 2022 et 2023.
+
+   La version 80 est la première version des lib du CÉGEP pour KiCadV6
+     nombreuses corrections de courtyard et de pointeurs pour modeles 3D   
+
+
+L'utilité de ce fichier est de savoir quelle version de la librairie est la dernière installée.
+
+Ce fichier est utilisé de concert avec le fichier
+VERSION_LIB_0CSL.TXT  qui pour sa part contient le numéro de version.
+
+Si on a copié de multiples versions de la librairie au même endroit, comme on doit normalement 
+le faire pour avoir les nouvelles pièces du cours de projet, le dernier chiffre
+apparent dans le nom de ce fichier doit être la dernière version installée
+et on devrait retrouver cette valeur dans le fichier
+VERSION_LIB_0CSL.TXT
+
+Cette maniére de faire a été inspirée le 12 septembre 2020 par Madame Sydney Athans qui souhaitait 
+trouver une méthode de savoir quelle était la librairie installée.
+
+
+
+ 
+
+
+
+
+
+
