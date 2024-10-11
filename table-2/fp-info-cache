@@ -1,4 +1,4 @@
-24242958031939441
+24246416814076439
 0CSL_D1_V1
 3-SIP_V7805R
 http://www.cui.com/product/resource/v78xx-1000.pdf
@@ -59289,6 +59289,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HEATSINK_573100D00000G
+HEATSINK_573100D00000G
+
+
+0
+1
+1
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -64911,6 +64918,13 @@ THT
 4
 2
 JiaLib
+573100D00000G Heat sink SMD TO-252
+
+
+0
+0
+0
+JiaLib
 AP1086DL-13
 
 
@@ -64922,8 +64936,8 @@ AZ1084CD-5.0TRG1
 
 
 0
-0
-0
+3
+3
 JiaLib
 BST13T1AVR
 

@@ -1,4 +1,4 @@
-(footprint "AZ1084CD-5.0TRG1"
+(footprint "573100D00000G Heat sink SMD TO-252"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -7,7 +7,7 @@
 		(at 0 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "806d43d4-77e6-491e-a05a-a44a6b98c25f")
+		(uuid "e849f535-443d-4fe2-8de6-2b550adbc6b0")
 		(effects
 			(font
 				(size 1 1)
@@ -15,11 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "AZ1084CD-5.0TRG1"
+	(property "Value" "573100D00000G Heat sink SMD TO-252"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "e6dd1f80-e382-4dd0-93a1-83022f7e641b")
+		(uuid "d5365e5f-70c5-4165-b710-b61719602333")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "532195e4-5e4a-4ab9-ac08-a6fe8c9bdcd5")
+		(uuid "6a6e2051-bf6a-40f4-b7af-65f251aed949")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "42d803f4-ff01-44db-8b1d-7cc26ef6d3ce")
+		(uuid "3df4c223-0e21-427d-9b3d-f0c90030d680")
 		(effects
 			(font
 				(size 1 1)
@@ -58,7 +58,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1731d2be-e75f-489c-abae-45afbfe3a30f")
+		(uuid "fd221b5d-03fd-4857-9360-2a4bc45a805a")
 		(effects
 			(font
 				(size 1 1)
@@ -71,33 +71,12 @@
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "5138a120-d4e5-4cec-a4ed-c495a3c5272b")
+		(uuid "189d5244-ac6a-46dd-a420-c2f182e269cd")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
 		)
-	)
-	(pad "1" smd rect
-		(at 7.7 15.25)
-		(size 1.5 2.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(thermal_bridge_angle 45)
-		(uuid "5cf5ebbe-6a67-4ce6-b887-6b3ecf901865")
-	)
-	(pad "2" smd rect
-		(at 10 8.4)
-		(size 7 7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(thermal_bridge_angle 45)
-		(uuid "59999040-1410-41de-a767-28343f5bfd28")
-	)
-	(pad "3" smd rect
-		(at 12.3 15.25)
-		(size 1.5 2.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(thermal_bridge_angle 45)
-		(uuid "0b73943a-055f-41fb-b557-430af82638d3")
 	)
 )
