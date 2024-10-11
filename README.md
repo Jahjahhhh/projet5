@@ -16,3 +16,5 @@
 - 1.8" OLED SPI display
 
 ![alt text](https://github.com/Jahjahhhh/projet5/blob/main/schematic.png?raw=true)
+![alt text](https://github.com/Jahjahhhh/projet5/blob/main/pcb.png?raw=true)
+
