@@ -15,6 +15,11 @@
 - 1 SPDT toggle switch to control linear actuators (ON - OFF - ON)
 - 1.8" OLED SPI display
 
+
+### Schematic
 ![alt text](https://github.com/Jahjahhhh/projet5/blob/main/schematic.png?raw=true)
+<br>
+
+### PCB
 ![alt text](https://github.com/Jahjahhhh/projet5/blob/main/pcb.png?raw=true)
 
